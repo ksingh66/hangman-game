@@ -1,4 +1,6 @@
 ![Hangman🙃](https://github.com/user-attachments/assets/28888dad-27c7-450b-b48b-43abcfecc276)
+
+
 ![GitHub last commit (branch)](https://img.shields.io/github/last-commit/ksingh66/hangman-game/main)
 # Note
 Type in "make" in the terminal whilst in the directory with all all the files and it will compile the program into a binary. Run this binary with *"./hangman **secret-phrase**"*. This "secret phrase" will be the word that is to be guessed during your game.
